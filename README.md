@@ -13,7 +13,7 @@ This is a Vite template for kickstarting client-side projects with React.js. Vit
 
 ## How to Use
 
-1. Clone the repository to your local machine: git clone `https://github.com/danielace1/vite-react-template.git`
+1. Clone the repository to your local machine: git clone https://github.com/your-username/vite-react-template.git
 2. Navigate to the project directory
 3. Install dependencies using npm or yarn
 4. Start the development server
@@ -34,7 +34,7 @@ You can customize this template according to your project requirements. Here are
 
 ## Acknowledgments
 
-Special thanks to the Vite and React.js communities for their continuous support and contributions to the ecosystem.
+Special thanks to the Vite and React.js communities for their continuous support and contributions to the ecosystem. 
 
 Happy coding!
 
