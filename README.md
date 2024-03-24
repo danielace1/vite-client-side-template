@@ -13,7 +13,8 @@ This is a Vite template for kickstarting client-side projects with React.js. Vit
 
 ## How to Use
 
-Clone to local
+#### Clone to local
+
 If you prefer to do it manually with the cleaner git history
 
 ```
