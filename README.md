@@ -13,6 +13,15 @@ This is a Vite template for kickstarting client-side projects with React.js. Vit
 
 ## How to Use
 
+Clone to local
+If you prefer to do it manually with the cleaner git history
+
+```
+npx degit anburocky3/vite-html-tailwind my-app
+cd my-app
+npm install # Install dependencies
+```
+
 1. Clone the repository to your local machine: git clone `https://github.com/danielace1/vite-react-template.git`
 2. Navigate to the project directory
 3. Install dependencies using npm or yarn
